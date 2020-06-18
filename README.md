@@ -19,5 +19,6 @@
 - Setup your database access in DB.class.php and create your table with the SQL request.
 
 - Don't forget to create 2 folders, videos/ and miniatures/ as they will temporary store the uploaded files. And remember to give access to everything to your www user, each. freaking. time. 
+- Uploaded thumbnails has to be a jpeg file but you can easily change that
 
 You can now access index.php, go through the process, and debug your errors in the apache logs. Enjoy.
